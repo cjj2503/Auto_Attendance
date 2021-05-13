@@ -1,4 +1,4 @@
-from dgut_requests.dgutXgxtt import dgutXgxtt
+from dgut_requests.dgut import dgutUser
 import time
 import sys
 import datetime
